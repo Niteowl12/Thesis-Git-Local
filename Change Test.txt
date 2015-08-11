@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 stuff to add for version control testing
 yet again more changes
+=======
+>>>>>>> parent of d5517e7... more changes
 =======
 >>>>>>> parent of d5517e7... more changes
